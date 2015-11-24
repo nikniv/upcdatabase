@@ -1,0 +1,1 @@
+Node.js library for the UPC database search.

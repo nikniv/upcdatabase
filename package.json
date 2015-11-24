@@ -1,0 +1,26 @@
+{
+  "name": "upcdatabase",
+  "version": "0.0.1",
+  "description": "Node.js library for the UPC database search.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "sh ./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiveditN/upcdatabase.git"
+  },
+  "keywords": [
+    "UPC",
+    "Node"
+  ],
+  "author": "niveditn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiveditN/upcdatabase/issues"
+  },
+  "homepage": "https://github.com/NiveditN/upcdatabase#readme"
+}
